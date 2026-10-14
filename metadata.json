@@ -1,0 +1,6 @@
+{
+  "name": "DocCare",
+  "description": "Application de prise de rendez-vous médicaux avec des spécialistes, téléconsultation et suivi des rendez-vous",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

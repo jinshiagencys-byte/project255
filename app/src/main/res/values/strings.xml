@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DocCare</string>
+    <string name="tagline">Trouvez votre spécialiste et prenez rendez-vous facilement</string>
+    <string name="search_hint">Rechercher un médecin, une spécialité, un cabinet…</string>
+    <string name="specialist_categories">Spécialités médicales</string>
+    <string name="top_doctors">Praticiens recommandés</string>
+    <string name="see_all">Voir tout</string>
+    <string name="clear_filter">Effacer le filtre</string>
+    <string name="get_started">Commencer</string>
+    <string name="book_appointment">Prendre rendez-vous</string>
+    <string name="confirm_booking">Confirmer le rendez-vous</string>
+    <string name="appointment_success">Rendez-vous confirmé avec succès !</string>
+    <string name="about_doctor">Présentation du praticien</string>
+    <string name="working_hours">Horaires d\'ouverture</string>
+    <string name="patients">Patients</string>
+    <string name="experience">Expérience</string>
+    <string name="rating">Note</string>
+    <string name="reviews">Avis</string>
+    <string name="select_date">Choisir une date</string>
+    <string name="select_time">Choisir un créneau horaire</string>
+    <string name="consultation_type">Motif de consultation</string>
+    <string name="in_person">Au cabinet médical</string>
+    <string name="video_call">Téléconsultation vidéo</string>
+    <string name="home">Accueil</string>
+    <string name="appointments">Rendez-vous</string>
+    <string name="messages">Messagerie</string>
+    <string name="profile">Mon Profil</string>
+    <string name="call">Appeler</string>
+    <string name="message">Message</string>
+    <string name="direction">Itinéraire</string>
+    <string name="website">Site web</string>
+    <string name="share">Partager</string>
+    <string name="upcoming">À venir</string>
+    <string name="completed">Passés</string>
+    <string name="cancelled">Annulés</string>
+    <string name="cancel_appointment">Annuler le rendez-vous</string>
+    <string name="reschedule">Déplacer</string>
+    <string name="no_appointments">Aucun rendez-vous prévu</string>
+    <string name="no_appointments_desc">Vos prochains rendez-vous avec vos praticiens apparaîtront ici.</string>
+    <string name="no_doctors_found">Aucun praticien ne correspond à votre recherche.</string>
+    <string name="favorites">Médecins favoris</string>
+    <string name="my_reviews">Dossier médical &amp; bilans</string>
+    <string name="notifications">Notifications</string>
+    <string name="help_center">Aide &amp; support</string>
+    <string name="settings">Paramètres</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DocCare</string>
+    <string name="tagline">Find your desired doctor &amp; book easily</string>
+    <string name="search_hint">Search doctor, specialty, clinic…</string>
+    <string name="specialist_categories">Doctor Specialties</string>
+    <string name="top_doctors">Top Doctors</string>
+    <string name="see_all">See All</string>
+    <string name="get_started">Get Started</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="confirm_booking">Confirm Appointment</string>
+    <string name="appointment_success">Appointment Booked Successfully!</string>
+    <string name="about_doctor">About Doctor</string>
+    <string name="working_hours">Working Hours</string>
+    <string name="patients">Patients</string>
+    <string name="experience">Experience</string>
+    <string name="rating">Rating</string>
+    <string name="reviews">Reviews</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time Slot</string>
+    <string name="consultation_type">Consultation Type</string>
+    <string name="in_person">In-Person Clinic</string>
+    <string name="video_call">Video Consultation</string>
+    <string name="home">Home</string>
+    <string name="appointments">Appointments</string>
+    <string name="messages">Messages</string>
+    <string name="profile">Profile</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+    <string name="direction">Directions</string>
+    <string name="website">Website</string>
+    <string name="share">Share</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="completed">Completed</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="cancel_appointment">Cancel Appointment</string>
+    <string name="reschedule">Reschedule</string>
+    <string name="no_appointments">No appointments yet</string>
+    <string name="no_appointments_desc">Your scheduled doctor appointments will appear here.</string>
+    <string name="no_doctors_found">No doctors found matching your search.</string>
+    <string name="favorites">Favorite Doctors</string>
+    <string name="my_reviews">My Medical Records</string>
+    <string name="notifications">Notifications</string>
+    <string name="help_center">Help &amp; Support</string>
+    <string name="settings">Settings</string>
+</resources>

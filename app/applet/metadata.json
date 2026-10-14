@@ -1,0 +1,6 @@
+{
+  "name": "DocCare",
+  "description": "Doctor appointment booking app with specialists, categories, real-time appointment scheduling, and doctor profiles",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
